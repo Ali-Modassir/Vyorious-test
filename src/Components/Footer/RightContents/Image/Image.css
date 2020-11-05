@@ -1,0 +1,10 @@
+.Image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.Image img {
+  width: 100%;
+  object-fit: contain;
+}

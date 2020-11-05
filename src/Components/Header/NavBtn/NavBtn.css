@@ -1,0 +1,16 @@
+.NavBtn {
+  display: inline-block;
+  margin-right: 5%;
+}
+.NavBtn button {
+  height: 1.3cm;
+  object-fit: contain;
+  width: 6cm;
+  background-color: rgb(237, 125, 49);
+  color: white;
+  font-size: 1.4rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  font-family: Calibri, "Trebuchet MS", sans-serif;
+}

@@ -1,0 +1,20 @@
+.logoContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 170px;
+}
+
+.pic1 {
+  height: auto;
+  width: 2.29cm;
+  object-fit: contain;
+  padding: 2%;
+}
+
+.pic2 {
+  object-fit: contain;
+  width: 3cm;
+  height: auto;
+  padding: 2%;
+}

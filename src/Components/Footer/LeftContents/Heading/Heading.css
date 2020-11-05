@@ -1,0 +1,19 @@
+.Heading {
+  font-size: 4rem;
+  font-family: Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  color: black;
+  width: 100%;
+  text-align: left;
+  margin-top: 1%;
+}
+
+.Heading .textType1 {
+  color: rgb(237, 125, 49);
+  padding: 2%;
+  padding-left: 0;
+}
+.Heading .textType2 {
+  color: rgb(237, 125, 49);
+  padding: 2%;
+}
